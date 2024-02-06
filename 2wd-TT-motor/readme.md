@@ -4,4 +4,4 @@ This PCB is derived from the [tortoisebot](https://github.com/rosmo-robot/linoro
 
 Theres some incomplete documentation on how to assemble a complete robot on [https://rosmo-robot.github.io/tortoise/](https://rosmo-robot.github.io/tortoise/)
 
-Thee is also a copy of the PCB on [EasyEDA](https://easyeda.com/editor#id=09360a70d3f14fe889b995b0f205c326)
+Thee is also a copy of the PCB on [EasyEDA](https://easyeda.com/editor#id=09360a70d3f14fe889b995b0f205c326) to order a set of five PCB just click on 'Generate PCB fabrication files in EasyEDA and then follow the ordering process at JLPCB. They cost around $11 for a pack of five.
